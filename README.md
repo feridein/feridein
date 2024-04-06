@@ -8,7 +8,7 @@ I've been learning to code after switching my careers. I started with Java.
 
 * 🌍  I'm based in Cambridge
 * ✉️  You can contact me at [ferideboyraz84@gmail.com](mailto:ferideboyraz84@gmail.com)
-* 🧠  I'm learning SELENIUM
+* 🧠 Currently, I'm on to improve my knowledge and skills in Automation Test.
 
 ### Skills
 
